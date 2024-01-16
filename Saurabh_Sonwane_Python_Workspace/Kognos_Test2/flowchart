@@ -1,0 +1,12 @@
+digraph Flowchart {
+	A
+	B
+	C
+	D
+	E
+	A -> B
+	B -> D
+	C -> E
+	D -> E
+	A -> E
+}
